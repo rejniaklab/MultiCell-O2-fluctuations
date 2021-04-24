@@ -1,2 +1,2 @@
 # MultiCell-O2-fluctuations
-Code for O2 flkuctuations project
+Code for O2 fluctuations project
